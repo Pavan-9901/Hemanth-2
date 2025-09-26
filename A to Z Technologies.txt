@@ -1,0 +1,36 @@
+A to Z Technologies
+
+A= Artificial intelligence
+B= Big data
+C= C language
+D= Data science
+E= ETL
+F= Flutter
+G= G cloud
+H= Hadoop
+I= IOS
+J= Java Language
+K= Kubernetes
+L= Linux
+M= Machine Learning
+N= Node.js
+O= Oracle
+P= Python
+Q= QOS
+R= Robotics
+S= SAP
+T= Tin ker cad
+U= UI & UX
+V= Voice Assistants
+W= Windows
+X= XML
+Y= YugabyteDB
+Z= Zigbee
+
+
+
+
+1.how check laptop score
+   step1:  go to PowerShell application
+   step2:  then enter this command
+               get-ciminstance win32_winsat 
